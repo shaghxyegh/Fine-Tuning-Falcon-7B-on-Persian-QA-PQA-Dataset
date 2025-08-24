@@ -64,7 +64,7 @@ This was my first attempt to fine-tune a model, using Google Colab’s free T4 G
 - **Deployment**: Create a Hugging Face or FastAPI endpoint for Persian QA.
 
 ## References
-- PQA Dataset: (https://huggingface.co/datasets/Gholamreza/pquad).
+- PQA Dataset: https://huggingface.co/datasets/SajjadAyoubi/persian_qa.
 - Hugging Face Docs: https://huggingface.co/docs/transformers
 - Model: https://huggingface.co/tiiuae/falcon-7b-instruct
 - PEFT Docs: https://huggingface.co/docs/peft
